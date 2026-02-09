@@ -1,3 +1,7 @@
+When you find some source-code for [angular]([url](https://github.com/angular/angular)) and you
+find that the components html template is defined in the typescript file using template instead
+of templateUrl and you want to change this - this script is for you.
+
 # extract-templates
 If you prefer to have a components html template in a seperate file, but the project you just
 branch from has a different view on that (it uses template: `some html`) you might give this
