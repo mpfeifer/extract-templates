@@ -10,8 +10,8 @@ were used. The same holds for the shell script (for bash). The script is looking
 configuration options, extracts the markup it finds and writes it to a suitable file. 
 
 # Usage
-put scripts in src/ folder. run extract-templates.sh.
+Put scripts in src/ folder. run extract-templates.sh.
 
 # Disclaimer
-In case something is not write, do "git reset --hard ; git clean -f". This should remove any changes
+In case something is not right, you can "git reset --hard ; git clean -f". This should remove any changes
 changes that were not yet commited and remove any files not under git control.
