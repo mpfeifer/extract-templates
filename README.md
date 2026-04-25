@@ -13,5 +13,5 @@ configuration options, extracts the markup it finds and writes it to a suitable 
 Put scripts in src/ folder. run extract-templates.sh.
 
 # Disclaimer
-In case something is not right, you can "git reset --hard ; git clean -f". This should remove any changes
+In case something is not right, you can "git reset --hard ; git clean -f". This should remove any
 changes that were not yet commited and remove any files not under git control.
